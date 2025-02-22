@@ -1,0 +1,4 @@
+265
+Simple Goal;Waking up,   waking up,5,True,
+Eternal Goal;eating food,eating food,5,1,
+Checklist Goal;Temple Trip,Going to the Temple,50,100,3,3,True,
